@@ -1,0 +1,22 @@
+@CHARSET "EUC-KR";
+	<style>
+		.slider {
+			position: relative;
+			z-index: 10;
+		}
+		
+		.text {
+			position: absolute;
+			top: 10%;
+			left: 10%;
+			transform: translate(-50%, 0);
+			z-index: 20;
+			color: white;
+			font-size: 2rem;
+		}
+		
+		.carousel-item img {
+			width: 100%;
+			height: 600px;
+		}
+	</style>

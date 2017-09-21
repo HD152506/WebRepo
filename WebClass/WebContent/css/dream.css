@@ -1,0 +1,12 @@
+@CHARSET "EUC-KR";
+    <style>
+	div.container{
+		padding-top: 30px;
+	}
+	.sub{
+		font-size:30px;
+	}
+	p.sam{
+		font-size:30px;
+	}
+	</style>
