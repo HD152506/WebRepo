@@ -1,2 +1,6 @@
 eclipse.preferences.version=1
-encoding//WebContent/JSP/home.jsp=UTF-8
+encoding//WebContent/jsp/dream.jsp=UTF-8
+encoding//WebContent/jsp/hobby.jsp=UTF-8
+encoding//WebContent/jsp/music.jsp=UTF-8
+encoding//WebContent/jsp/myblog.jsp=UTF-8
+encoding//WebContent/jsp/signin.jsp=UTF-8
